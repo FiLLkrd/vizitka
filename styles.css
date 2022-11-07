@@ -25,6 +25,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    
 }
 
 .name h1 {
@@ -38,10 +39,11 @@
 
 .name p {
     font-weight: 700;
-    font-size: 30px;
+    font-size: 20px;
     line-height: 36px;
     line-height: 50px;
     margin: 0;
+    color: #535252;
     
     
 }
@@ -53,6 +55,7 @@
     height: 170px;
     border-radius: 120px;
     border: 2px solid rgb(0, 0, 0);
+    box-shadow: 0px 2px 3px rgba(8, 8, 8, 0.582) 
     
 }
 
